@@ -1,3 +1,12 @@
+# 📊 Diagrammes de classes :
+
+### 1-Stratégie SINGLE_TABLE :
+![WhatsApp Image 2026-02-24 at 02 37 30](https://github.com/user-attachments/assets/ca510ef5-0e6f-42fc-b045-bc9ed3990fd6)
+### 2-Stratégie JOINED :
+![WhatsApp Image 2026-02-24 at 02 17 11](https://github.com/user-attachments/assets/29051f20-4481-4b83-bc9a-6d431f17cfa9)
+### 3-Stratégie TABLE_PER_CLASS :
+![WhatsApp Image 2026-02-24 at 02 29 27](https://github.com/user-attachments/assets/f333f60b-43b4-4a7c-b352-cbc12751c888)
+
 # Compilation et Exécution Du Projet :
 <br></br>
 <img width="925" height="307" alt="Capture d&#39;écran 2026-02-23 221136" src="https://github.com/user-attachments/assets/944c89ef-cceb-4b3b-acab-0b2e0cc7d4b8" />
